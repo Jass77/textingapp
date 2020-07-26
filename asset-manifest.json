@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/textingapp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/textingapp/static/js/main.9c6eabd3.chunk.js",
+    "main.js.map": "/textingapp/static/js/main.9c6eabd3.chunk.js.map",
+    "runtime-main.js": "/textingapp/static/js/runtime-main.6e4320e8.js",
+    "runtime-main.js.map": "/textingapp/static/js/runtime-main.6e4320e8.js.map",
+    "static/js/2.085106d0.chunk.js": "/textingapp/static/js/2.085106d0.chunk.js",
+    "static/js/2.085106d0.chunk.js.map": "/textingapp/static/js/2.085106d0.chunk.js.map",
+    "index.html": "/textingapp/index.html",
+    "precache-manifest.8eaf2449407d26b2d51cd368ac85ed67.js": "/textingapp/precache-manifest.8eaf2449407d26b2d51cd368ac85ed67.js",
+    "service-worker.js": "/textingapp/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/textingapp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.085106d0.chunk.js.LICENSE.txt": "/textingapp/static/js/2.085106d0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/textingapp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e4320e8.js",
+    "static/js/2.085106d0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9c6eabd3.chunk.js"
+  ]
+}
